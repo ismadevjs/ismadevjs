@@ -31,4 +31,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ismadevjs&" alt="ismadevjs" /></p>
 
-![snake gif](https://github.com/ismadevjs/ismadevjs/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="ismadevjs" />
