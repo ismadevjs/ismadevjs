@@ -30,3 +30,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismadevjs&show_icons=true&locale=en&layout=compact" alt="ismadevjs" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ismadevjs&" alt="ismadevjs" /></p>
+
+![snake gif](https://github.com/ismadevjs/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
