@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Docker**
 
-- 👨‍💻 All of my projects are available at [https://ismail-taibi-nextjs.vercel.app/](https://ismail-taibi-nextjs.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://ismail-taibi-nextjs.vercel.app/](portfolio-frontend-l1.vercel.app)
 
 - 📝 My LinkedIn [https://www.linkedin.com/in/ismail-taibi-7944ab171/](https://www.linkedin.com/in/ismail-taibi-7944ab171/)
 
